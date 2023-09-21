@@ -1,7 +1,6 @@
 # 성장중인 백엔드개발자 입니다 :)
 
 * Email : asdffg7252@gmail.com
-* Blog : https://velog.io/@asdffg725
 
 ## ⌨️ Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white) 
